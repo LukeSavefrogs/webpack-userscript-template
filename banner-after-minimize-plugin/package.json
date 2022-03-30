@@ -1,0 +1,13 @@
+{
+	"name": "banner-after-minimize-plugin",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://stackoverflow.com/a/67241531/8965861",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["webpack", "plugin", "banner", "BannerPlugin"],
+	"author": "kroko",
+	"license": "ISC"
+}
