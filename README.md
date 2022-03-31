@@ -1,8 +1,9 @@
 # webpack-userscript-template
 Just another template to use Webpack to create Userscripts in Tampermonkey/ViolentMonkey/GreaseMonkey.
+
 ## Roadmap
 - Add CSS support
-- Use [`userscript-metadata-webpack-plugin`](https://www.npmjs.com/package/userscript-metadata-webpack-plugin) to prepend the metadata to the final userscript
+- Use [`userscript-metadata-webpack-plugin`](https://www.npmjs.com/package/userscript-metadata-webpack-plugin) to prepend the metadata to the final userscript instead of custom `banner-after-minimize-plugin` (which i don't think i'll remove since still useful to learn by the way).
 
 ## See also
 ### :mag: [react-userscripts](https://github.com/siefkenj/react-userscripts)
